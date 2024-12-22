@@ -29,10 +29,8 @@
 
 		"outerColor": [130,109,31],
 		"innerColor": [36,110,47],
-		"unique": "WORDS_OF_PEACE",
-		"cities": ["Arrakeen","The Fane","The Citadel","Oxtyn","Sihaya","Temple Wall","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"unique": "VISIONS OF AN UTOPIA",
+		"cities": ["Arrakeen","The Fane","The Citadel","Oxtyn Basin","Sihaya Basin","Temple Wall","Odysseus Way","Appolosia","Adonis Tower",
+			"Damian's Tower","The Creed"]
 	}
 ]
